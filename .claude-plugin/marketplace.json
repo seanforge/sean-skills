@@ -7,9 +7,9 @@
   },
   "plugins": [
     {
-      "name": "skills",
+      "name": "sean-skills",
       "description": "A personal agent plugin for Claude Code and Codex.",
-      "version": "0.0.13",
+      "version": "0.0.14",
       "source": "./",
       "author": {
         "name": "XiangZhang",
