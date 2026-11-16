@@ -1,4 +1,4 @@
-# skills
+# sean-skills
 
 A personal agent plugin for Claude Code and Codex.
 
@@ -8,14 +8,14 @@ A personal agent plugin for Claude Code and Codex.
 
 ```
 /plugin marketplace add seanforge/skills
-/plugin install skills@seanforge-skills
+/plugin install sean-skills@seanforge-skills
 ```
 
 **Codex**
 
 ```
 codex plugin marketplace add seanforge/skills
-codex plugin install skills@seanforge-skills
+codex plugin install sean-skills@seanforge-skills
 ```
 
 Then trust the SessionStart hook once via `/hooks` (Codex gates plugin hooks behind a review).
