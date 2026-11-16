@@ -7,14 +7,14 @@ A personal agent plugin for Claude Code and Codex.
 **Claude Code**
 
 ```
-/plugin marketplace add seanforge/skills
+/plugin marketplace add seanforge/sean-skills
 /plugin install sean-skills@seanforge-skills
 ```
 
 **Codex**
 
 ```
-codex plugin marketplace add seanforge/skills
+codex plugin marketplace add seanforge/sean-skills
 codex plugin install sean-skills@seanforge-skills
 ```
 
